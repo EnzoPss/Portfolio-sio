@@ -71,6 +71,8 @@ MENUITEMS = (
         "Découvrez mon parcours scolaire et professionnel.", "primary"
     ),
 
+    # ("Le BTS SIO", "/pages/bts-sio", "mortarboard", "Découvrez la formation BTS SIO", "info"),
+
     ("Réalisations", "/pages/realisations", "check2-square",
         (
             ("TP majeurs", "/pages/tp-majeurs"),
@@ -94,11 +96,11 @@ MENUITEMS = (
         "Consultez les articles de veille technologique que j’ai suivis durant cette année.", "warning"
     ),
 
-    ("Engagement", "/pages/engagement-etudiant", "people-fill", None, "Présention de mon engagement étudiant.", None),    # Optionnel
+    ("Engagement", "/pages/engagement-etudiant", "people-fill", None, "Présention de mon engagement étudiant.", "danger"),    # Optionnel
 
 )
 
-MAINITEMS = MENUITEMS[1:4] # Récupération de PARCOURS, REALISATION & VEILLE pour afficage dans index.html
+MAINITEMS = [] #MENUITEMS [1:4] Récupération de PARCOURS, REALISATION & VEILLE pour afficage dans index.html
 
 
 
