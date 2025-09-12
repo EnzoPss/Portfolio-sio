@@ -4,15 +4,14 @@ Title: Stage SIO1
 
 > <u>**Dates du stage :**</u>
 >
-> - **Date début :** XX/06/2025
-> - **Date fin :** XX/06/2025
+> - **Date début :** 19/06/2025
+> - **Date fin :** 27/06/2025
 >
 > **Entreprise :** Nom de l'entreprise
 
 
-
-# Présentation de l'entreprise/société :
-
+ Présentation de l'entreprise/société :
 
 
-# Missions & tâches réalisés : 
+
+ Missions & tâches réalisés : 

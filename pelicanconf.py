@@ -63,24 +63,18 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 MENUITEMS = (
     ("Accueil", "/", "house", None, "Page d'accueil du portefolio", None),
 
-    ("Mon parcours", "/pages/parcours", "mortarboard",
-        (
-            ("Parcours scolaire", "/pages/parcours-scolaire"),
-            ("Le BTS SIO", "/pages/bts-sio")
-        ),
-        "Découvrez mon parcours scolaire et professionnel.", "primary"
-    ),
+    ("Mon parcours", "/pages/parcours-scolaire", "person", None, "Découvrez mon parcours scolaire et professionnel.", "primary"),
 
-    # ("Le BTS SIO", "/pages/bts-sio", "mortarboard", "Découvrez la formation BTS SIO", "info"),
+    ("Le BTS SIO", "/pages/bts-sio", "mortarboard", None, "Découvrez la formation BTS SIO", "info"),
 
     ("Réalisations", "/pages/realisations", "check2-square",
         (
             ("TP majeurs", "/pages/tp-majeurs"),
             ("Stage de 1ère année", "/pages/stage-sio1"),
             ("Stage de 2e année", "/pages/stage-sio2"),
-            ("Projets scolaires", "/pages/projets-scolaires"),
-            ("Projets personnels", "/pages/projets-personnels"),                             # Optionnel
-            ("Certifications complémentaires", "/pages/certifications-complementaires") # Optionnel
+            # ("Projets scolaires", "/pages/projets-scolaires"),
+            # ("Projets personnels", "/pages/projets-personnels"),                             
+            # ("Certifications complémentaires", "/pages/certifications-complementaires") 
         ),
         "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "success"
      ),
@@ -100,7 +94,7 @@ MENUITEMS = (
 
 )
 
-MAINITEMS = [] #MENUITEMS [1:4] Récupération de PARCOURS, REALISATION & VEILLE pour afficage dans index.html
+MAINITEMS = MENUITEMS [1::] #Récupération de PARCOURS, REALISATION & VEILLE pour afficage dans index.html
 
 
 

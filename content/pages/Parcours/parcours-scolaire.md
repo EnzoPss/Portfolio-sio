@@ -10,6 +10,10 @@ Au lycée j'ai suivi la filière générale avec les spécialités :
 
 
 
+
+J'ai ensuite été en <a href="bts-sio"> BTS SIO</a>
+
+<!-- 
 **1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
 
 - **<u>Options :</u>**
@@ -38,4 +42,4 @@ Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
 
 
 
-J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications.
+J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications. -->
