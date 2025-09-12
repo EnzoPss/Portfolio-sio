@@ -57,3 +57,5 @@ Chacune de ces parties était ensuite divisée en sous-parties.
 
 Ce stage m’a permis d’engranger énormément de connaissances en développement web (front-end et back-end), tout en répondant à un besoin concret pour l’entreprise.  
 J’ai gagné en autonomie et en capacité à concevoir une solution adaptée aux utilisateurs, en restant à leur écoute.
+
+# test
