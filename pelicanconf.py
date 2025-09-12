@@ -16,7 +16,7 @@ from datetime import datetime
 # Cette section contient les variables générales associé au site/portefolio.
 
 SITENAME = 'Portfolio BTS SIO SLAM'
-SITESUBTITLE = "Mon parcours de formation"
+SITESUBTITLE = "Mon enfer de formation"
 AUTHOR = 'John DOE'
 SITEURL = "" # Est surchargé par l'url du serveur dans le fichier publishconf.py
 TIMEZONE = 'Europe/Rome'
