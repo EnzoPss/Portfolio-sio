@@ -1,3 +1,5 @@
+title: stage-sio1
+
 > **FICHE DESCRIPTIVE**
 
 > **Dates du stage :**  
