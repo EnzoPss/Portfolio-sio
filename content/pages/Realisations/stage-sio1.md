@@ -1,4 +1,4 @@
-title: stage-sio1
+Title: Stage SIO1
 
 > **FICHE DESCRIPTIVE**
 
